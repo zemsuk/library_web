@@ -3,7 +3,7 @@
     "description": "Plugin web for website management module it depends on zems/lr_admin",
     "type": "library",
     "require": {
-        "zems/lr_admin": "dev-main"
+        "zems/lr_admin": "^1.0"
     },
     "license": "MIT",
     "autoload": {
