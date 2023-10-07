@@ -1,0 +1,21 @@
+{
+    "name": "zems/library_web",
+    "description": "Plugin web for website management module it depends on zems/lr_admin",
+    "type": "library",
+    "require": {
+        "zems/lr_admin": "dev-main"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zems\\LibraryWeb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zems",
+            "email": "support@zems.uk"
+        }
+    ],
+    "minimum-stability": "dev"
+}
